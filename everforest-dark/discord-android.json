@@ -14,45 +14,15 @@
     "BACKGROUND_MESSAGE_HOVER": [
       "#2D353B"
     ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#232A2E"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#2D353B"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#2D353B"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#343F44"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#2D353B"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#343F44"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#232A2E"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#2D353B"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#343F44"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#1E2326"
-    ],
-    "BORDER_FAINT": [
-      "#475258"
-    ],
-    "BORDER_STRONG": [
-      "#4F585E"
-    ],
-    "BORDER_SUBTLE": [
-      "#475258"
-    ],
+    "BACKGROUND_MOBILE_PRIMARY": ["#2D353B"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#343F44"],
+    "BACKGROUND_PRIMARY": ["#2D353B"],
+    "BACKGROUND_SECONDARY": ["#343F44"],
+    "BACKGROUND_SECONDARY_ALT": ["#3C4841"],
+    "BACKGROUND_TERTIARY": ["#232A2E"],
+    "BORDER_FAINT": ["#3C4841"],
+    "BORDER_SUBTLE": ["#3C4841"],
+    "BORDER_STRONG": ["#475258"],
     "CHANNEL_ICON": [
       "#A7C080"
     ],
@@ -60,7 +30,7 @@
       "#9DA9A0"
     ],
     "CHAT_BACKGROUND": [
-      "#232A2E"
+      "#2D353B"
     ],
     "HEADER_PRIMARY": [
       "#D3C6AA"
@@ -69,20 +39,12 @@
       "#9DA9A0"
     ],
     "HOME_BACKGROUND": [
-      "#2D353B"
+      "#343F44"
     ],
-    "INTERACTIVE_ACTIVE": [
-      "#D3C6AA"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#A7C080"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#859289"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#9DA9A0"
-    ],
+    "INTERACTIVE_MUTED": ["#859289"],
+    "INTERACTIVE_NORMAL": ["#D3C6AA"],
+    "INTERACTIVE_HOVER": ["#A7C080"],
+    "INTERACTIVE_ACTIVE": ["#D3C6AA"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#2D353B"
     ],
@@ -95,20 +57,16 @@
     "TEXT_LINK": [
       "#7FBBB3"
     ],
-    "TEXT_MUTED": [
-      "#859289"
-    ],
+    "TEXT_MUTED": ["#859289"],
+    "TEXT_SECONDARY": ["#859289"],
     "TEXT_NORMAL": [
       "#D3C6AA"
     ],
-    "TEXT_SECONDARY": [
-      "#9DA9A0"
-    ],
     "CARD_PRIMARY_BG": [
-      "#2D353B"
+      "#343F44"
     ],
     "CARD_SECONDARY_BG": [
-      "#343F44"
+      "#3C4841"
     ]
   },
   "rawColors": {
