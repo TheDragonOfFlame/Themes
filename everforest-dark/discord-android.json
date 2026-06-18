@@ -373,5 +373,7 @@
       "toast_copy_message": "#D3C6AA",
       "toast_image_saved": "#D3C6AA"
     }
-  }
+  },
+  "spec": 2,
+  "createdAt": "2026-06-18"
 }
